@@ -1,0 +1,17 @@
+	-git init #crea un nuevo repositorio Git
+	
+	-git clone #clonar el repositorio a través de un URL o conexión SSH
+	
+	-git config #se invoca con un nombre de configuración
+	
+	-git status #reflejar los cambios o el estado de mi local (cambios, 	commits, archivos)
+	
+	-git fetch #recuperar información más reciente de metadatos del remoto 
+	
+	-git pull origin main#recupera la información más reciente del remoto y 'jala' los datos a nuestro local
+	
+	-git push origin man #envia la información más reciente del local al remoto
+	
+	-git commit -am "mensaje"#permite agragar mensajes a los commits nuevos
+	
+
