@@ -24,4 +24,8 @@
 	
 	-git log --oneline --graph #Visualizador gráfico del historial de commits
 	
+	-git checkout <Id de commit> #Regresar al commit deseado y visualizar que teniamos y cuales no
+	
+	-git reset --hard HEAD~1 #Posicionar el HEAD un commit atrás 
+	
 
