@@ -14,4 +14,14 @@
 	
 	-git commit -am "mensaje"#permite agragar mensajes a los commits nuevos
 	
+	-git reset --hard #Posicionar el HEAD en el último commit 
+	
+	-git reset HEAD <file> #deshacer los cambios generados en un archivo y que no han sido confirmados
+	
+	-git log #Historial de commits
+	
+	-git log --oneline  #el historial reducido
+	
+	-git log --oneline --graph #Visualizador gráfico del historial de commits
+	
 
